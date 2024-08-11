@@ -19,7 +19,7 @@
 - 🎯 **Smart Farm** project.
 - 🌟 **Current Project**:Develop problem-solving skills,Pursuing the First term in leran in depth deploma with Eng.Kerlos.
 - 🌟 **Unique Experience**: Volunteering in many teams in different tracks.
-- 
+--- 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/sara-saad-b7565a2b9/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -28,17 +28,16 @@
 <a href="Sarasaadmahmoud146@gmail.com"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+- 💻 &nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=007ACC)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+- ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-
-
-
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BasmalaMohamad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
@@ -46,3 +45,7 @@
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
 </a>
+
+### 📊 Profile stats
+
+[![Sara Saad's github stats](https://github-readme-stats.vercel.app/api?username=SaraSaad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/SaraSaadMohamud/SaraSaadMohamud/edit/main/README.md)-stats)
