@@ -11,10 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Embedded%20System%20Trainee;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+- 🏢 **Al_azher University - Faculty of Engineering**
 - 🏢 I'm an Embedded System Trainee | learn in depth trainee.
-- 👨‍💻 As a Electronisc and communication student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++, and python, or anything related to Embedded System Concepts.
-
+- 👨‍💻 Aspire to be an a Electronisc and communication Enginnering. I'm constantly learning new technologies to improve my skills.
+- 💬 **Ask me about**:
+- 🎯My experience with C, C++, and python, Virlog, or anything related to Embedded System Concepts.
+- 🎯 **Smart Farm** project.
+- 🌟 **Current Project**:Develop problem-solving skills,Pursuing the First term in leran in depth deploma with Eng.Kerlos.
+- 🌟 **Unique Experience**: Volunteering in many teams in different tracks.
+- 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/sara-saad-b7565a2b9/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
