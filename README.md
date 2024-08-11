@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 **Al_azher University - Faculty of Engineering**
-- 🏢 I'm an Embedded System Trainee | learn in depth trainee.
+- 🏢 Embedded System Trainee | learn in depth trainee.
 - 👨‍💻 Aspire to be an a Electronisc and communication Enginnering. I'm constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with C, C++, and python, Virlog, or anything related to Embedded System Concepts.
